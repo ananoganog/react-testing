@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/members/list/components spec Body should render a body component when passing members property 1`] = `
+<tbody>
+  <Component
+    key="0"
+    member={
+      Object {
+        "avatarUrl": "someone's avatar url",
+        "id": 0,
+        "name": "someone",
+      }
+    }
+  />
+</tbody>
+`;

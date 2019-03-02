@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/members/list/components spec Table should render a table component when passing members property not empty 1`] = `
+<table
+  className="table table-striped"
+>
+  <Component />
+  <Component
+    members={
+      Array [
+        Object {
+          "avatarUrl": "someone's avatar url",
+          "id": 0,
+          "name": "someone",
+        },
+      ]
+    }
+  />
+</table>
+`;

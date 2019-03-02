@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/members/list/components spec Row should render a row with 3 td when passing a member 1`] = `
+<tr>
+  <td>
+    <img
+      src="someone's avatar url"
+      style={
+        Object {
+          "maxWidth": "10rem",
+        }
+      }
+    />
+  </td>
+  <td>
+    <span>
+      0
+    </span>
+  </td>
+  <td>
+    <span>
+      someone
+    </span>
+  </td>
+</tr>
+`;
